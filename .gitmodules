@@ -1,0 +1,3 @@
+[submodule "src/common/common_repo"]
+	path = src/common/common_repo
+	url = https://github.com/migherize/common_repo.git
